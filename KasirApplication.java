@@ -12,7 +12,7 @@ public class KasirApplication {
         System.out.println("_____________________________");
         System.out.println("Masukan Data berikut :");
         
-        nama_barang = "Indomie";
+        nama_barang = "Pepsodent";
         System.out.println("Nama Barang = " + nama_barang);
         
         jumlah_barang = 3;
